@@ -2,12 +2,12 @@ import * as React from 'react';
 
 import Button from '@material-ui/core/Button';
 
-import { Draft } from 'src/model/Draft';
-import { CardDataSource } from 'src/sources/CardSource';
+import { Draft } from '../model/Draft';
+import { CardDataSource } from '../sources/CardSource';
 
-import { PlayerFrame } from 'src/components/players/PlayerFrame';
-import { SetDetail } from 'src/model/SetDetail';
-import { SetRank } from 'src/model/SetRank';
+import { PlayerFrame } from '../components/players/PlayerFrame';
+import { SetDetail } from '../model/SetDetail';
+import { SetRank } from '../model/SetRank';
 
 interface IDraftProps {
     code: string;
@@ -26,7 +26,7 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
         super(props);
 
         this.source = new CardDataSource();
-    
+
         this.state = {
             draft: null,
             isLoading: true,
@@ -54,35 +54,35 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
 
         return (
             <div>
-                <Button variant="outlined" onClick={this.doDraft}>
+                <Button variant='outlined' onClick={this.doDraft}>
                     Start
                 </Button>
 
                 <h3>Results</h3>
-                { playerFrames }
+                {playerFrames}
             </div>);
-  }
+    }
 
-  private findSetData = () => {
-    const promises : [Promise<SetDetail>, Promise<SetRank>] = [
-        this.source.fetchSetDetail(this.props.code),
-        this.source.fetchSetRankings(this.props.code)
-    ];
+    private findSetData = () => {
+        const promises: [Promise<SetDetail>, Promise<SetRank>] = [
+            this.source.fetchSetDetail(this.props.code),
+            this.source.fetchSetRankings(this.props.code)
+        ];
 
-    Promise.all(promises)
-        .then(results => {
-            // set up a new draft with this set info
-            this.setState({
-                draft: new Draft(results[0], results[1]),
-                isLoading: false
+        Promise.all(promises)
+            .then((results) => {
+                // set up a new draft with this set info
+                this.setState({
+                    draft: new Draft(results[0], results[1]),
+                    isLoading: false
+                });
             });
-        });
-  };
+    }
 
-  private doDraft = () => {
-    this.state.draft!.go();
-    this.setState({
-        isComplete: true 
-    });
-  }
+    private doDraft = () => {
+        this.state.draft!.go();
+        this.setState({
+            isComplete: true
+        });
+    }
 }

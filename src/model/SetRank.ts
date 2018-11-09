@@ -1,10 +1,10 @@
-import { CardRank } from "./CardRank";
+import { CardRank } from './CardRank';
 
 export class SetRank {
     public code: string;
     public ranks: CardRank[];
 
-    private cachedRanks: { [category: string]: number; }
+    private cachedRanks: { [category: string]: number; };
 
     constructor(code: string, rankBlob: any) {
         this.code = code;
@@ -21,15 +21,15 @@ export class SetRank {
             return this.cachedRanks[cardName];
         }
 
-        const rank = this.ranks.find(c => c.name.toLowerCase() === cardName.toLowerCase());
+        const rank = this.ranks.find((c) => c.name.toLowerCase() === cardName.toLowerCase());
 
-        if (rank) { 
+        if (rank) {
             this.cachedRanks[cardName] = rank.rank;
             return rank.rank;
         }
 
         // no rank found
-        console.error("No rank found for: " + cardName);
+        console.error('No rank found for: ' + cardName);
         return 0;
     }
 }

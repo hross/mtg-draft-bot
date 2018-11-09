@@ -1,5 +1,5 @@
-import { CardDetail } from "./CardDetail";
-import { Pack } from "./Pack";
+import { CardDetail } from './CardDetail';
+import { Pack } from './Pack';
 
 export class SetDetail {
     public code: string;
@@ -48,6 +48,7 @@ export class SetDetail {
             if (nextCardType === 'marketing') {
                 // no op on marketing cards for draft
             } else if (!Array.isArray(nextCardType)) {
+                // TODO: GRN land is a gate
                 // pick a random number in the category and get the card
                 const idx = Math.floor((Math.random() * (this.idByCategory[nextCardType].length - 1) + 1));
                 cards.push(this.cards[idx]);

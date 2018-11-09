@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { CardDetail } from "../../model/CardDetail";
+import { CardDetail } from '../../model/CardDetail';
 import { CardFrame } from './CardFrame';
 
 interface ICardListProps {
@@ -17,11 +17,11 @@ export class CardList extends React.Component<ICardListProps> {
         const { cards, onPick } = this.props;
 
         const cardList = cards.map(
-                (c: CardDetail, idx: number) => 
+                (c: CardDetail, idx: number) =>
                     <CardFrame key={idx} card={c} onPick={onPick} />);
 
         return (
-            <div className="pack">{cardList}</div>
+            <div className='cards'>{cardList}</div>
         );
     }
 }
