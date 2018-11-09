@@ -1,0 +1,17 @@
+
+/*** overall styles ***/
+#root {
+  margin: 20px;
+}
+
+.mainPaper {
+  padding: 20px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+div.snackAlert {
+  background-color: red;
+}

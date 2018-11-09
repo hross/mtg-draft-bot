@@ -1,0 +1,2592 @@
+[
+    {
+        "ID": "8788",
+        "CardName": "Doom Whisperer",
+        "ELO": "2354",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8789",
+        "ImageURL": "2018\/09\/en_yM42Es0kjU.png",
+        "Rank": "1"
+    },
+    {
+        "ID": "8958",
+        "CardName": "Aurelia, Exemplar of Justice",
+        "ELO": "2306",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8959",
+        "ImageURL": "2018\/09\/en_Ulg8LdPLjA.png",
+        "Rank": "2"
+    },
+    {
+        "ID": "9042",
+        "CardName": "Ral, Izzet Viceroy",
+        "ELO": "2268",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9043",
+        "ImageURL": "2018\/09\/en_VbgW8nbAGJ.png",
+        "Rank": "3"
+    },
+    {
+        "ID": "9078",
+        "CardName": "Vraska, Golgari Queen",
+        "ELO": "2240",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9079",
+        "ImageURL": "2018\/09\/en_y1HuVnakef.png",
+        "Rank": "4"
+    },
+    {
+        "ID": "8726",
+        "CardName": "Dream Eater",
+        "ELO": "2183",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8727",
+        "ImageURL": "2018\/09\/en_aXHj3ccswv.png",
+        "Rank": "5"
+    },
+    {
+        "ID": "8926",
+        "CardName": "Nullhide Ferox",
+        "ELO": "2180",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8927",
+        "ImageURL": "2018\/09\/en_K9ISyeixdk.png",
+        "Rank": "6"
+    },
+    {
+        "ID": "8956",
+        "CardName": "Assassin's Trophy",
+        "ELO": "2165",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8957",
+        "ImageURL": "2018\/09\/en_vc8KOUn4AF.png",
+        "Rank": "7"
+    },
+    {
+        "ID": "9062",
+        "CardName": "Thief of Sanity",
+        "ELO": "2160",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9063",
+        "ImageURL": "2018\/09\/en_iZoU1vZXtO.png",
+        "Rank": "8"
+    },
+    {
+        "ID": "9068",
+        "CardName": "Trostani Discordant",
+        "ELO": "2144",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9069",
+        "ImageURL": "2018\/09\/en_7CS3PIklLT.png",
+        "Rank": "9"
+    },
+    {
+        "ID": "8868",
+        "CardName": "Legion Warboss",
+        "ELO": "2121",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8869",
+        "ImageURL": "2018\/09\/en_ZAxHUOC7ne.png",
+        "Rank": "10"
+    },
+    {
+        "ID": "9060",
+        "CardName": "Tajic, Legion's Edge",
+        "ELO": "2084",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9061",
+        "ImageURL": "2018\/09\/en_ZHtJIfK8kG.png",
+        "Rank": "11"
+    },
+    {
+        "ID": "9020",
+        "CardName": "Lazav, the Multifarious",
+        "ELO": "2081",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9021",
+        "ImageURL": "2018\/09\/en_kVHUPiVjH0.png",
+        "Rank": "12"
+    },
+    {
+        "ID": "9036",
+        "CardName": "Niv-Mizzet, Parun",
+        "ELO": "2074",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9037",
+        "ImageURL": "2018\/09\/en_6lzOkJzrJI.png",
+        "Rank": "13"
+    },
+    {
+        "ID": "8688",
+        "CardName": "Light of the Legion",
+        "ELO": "2073",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8689",
+        "ImageURL": "2018\/09\/en_pP2XHgBV7J.png",
+        "Rank": "14"
+    },
+    {
+        "ID": "8662",
+        "CardName": "Conclave Tribunal",
+        "ELO": "2048",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8663",
+        "ImageURL": "2018\/09\/en_90mPJ1NDXH.png",
+        "Rank": "15"
+    },
+    {
+        "ID": "9110",
+        "CardName": "Response \/\/ Resurgence",
+        "ELO": "2048",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9111",
+        "ImageURL": "2018\/09\/en_g9crYLtqWF.png",
+        "Rank": "16"
+    },
+    {
+        "ID": "8710",
+        "CardName": "Venerated Loxodon",
+        "ELO": "2040",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8711",
+        "ImageURL": "2018\/09\/en_yzNVF5Lxiv.png",
+        "Rank": "17"
+    },
+    {
+        "ID": "9102",
+        "CardName": "Find \/\/ Finality",
+        "ELO": "2019",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9103",
+        "ImageURL": "2018\/09\/en_WZsEJV4GnQ.png",
+        "Rank": "18"
+    },
+    {
+        "ID": "8816",
+        "CardName": "Price of Fame",
+        "ELO": "2014",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8817",
+        "ImageURL": "2018\/09\/en_aBicu0W3rK.png",
+        "Rank": "19"
+    },
+    {
+        "ID": "9012",
+        "CardName": "Izoni, Thousand-Eyed",
+        "ELO": "2003",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9013",
+        "ImageURL": "2018\/09\/en_hUxDlJZV8u.png",
+        "Rank": "20"
+    },
+    {
+        "ID": "8866",
+        "CardName": "Lava Coil",
+        "ELO": "2003",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8867",
+        "ImageURL": "2018\/09\/en_W2MAilE6jJ.png",
+        "Rank": "21"
+    },
+    {
+        "ID": "9028",
+        "CardName": "March of the Multitudes",
+        "ELO": "2002",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9029",
+        "ImageURL": "2018\/09\/en_Ou4UJ1bzwq.png",
+        "Rank": "22"
+    },
+    {
+        "ID": "9034",
+        "CardName": "Nightveil Predator",
+        "ELO": "1995",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9035",
+        "ImageURL": "2018\/09\/en_c6FL8jNeSC.png",
+        "Rank": "23"
+    },
+    {
+        "ID": "9074",
+        "CardName": "Underrealm Lich",
+        "ELO": "1993",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9075",
+        "ImageURL": "2018\/09\/en_gRV5moB6Ew.png",
+        "Rank": "24"
+    },
+    {
+        "ID": "8992",
+        "CardName": "Etrata, the Silencer",
+        "ELO": "1981",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8993",
+        "ImageURL": "2018\/09\/en_bma8wruaIa.png",
+        "Rank": "25"
+    },
+    {
+        "ID": "9016",
+        "CardName": "Justice Strike",
+        "ELO": "1980",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9017",
+        "ImageURL": "2018\/09\/en_MTonoxVzNd.png",
+        "Rank": "26"
+    },
+    {
+        "ID": "8818",
+        "CardName": "Ritual of Soot",
+        "ELO": "1975",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8819",
+        "ImageURL": "2018\/09\/en_qpF7gzTnIL.png",
+        "Rank": "27"
+    },
+    {
+        "ID": "8988",
+        "CardName": "Emmara, Soul of the Accord",
+        "ELO": "1956",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8989",
+        "ImageURL": "2018\/09\/en_qohZazazBN.png",
+        "Rank": "28"
+    },
+    {
+        "ID": "9018",
+        "CardName": "Knight of Autumn",
+        "ELO": "1956",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9019",
+        "ImageURL": "2018\/09\/en_p5HcRtM8TI.png",
+        "Rank": "29"
+    },
+    {
+        "ID": "8982",
+        "CardName": "Deafening Clarion",
+        "ELO": "1949",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8983",
+        "ImageURL": "2018\/09\/en_gXuGijGK58.png",
+        "Rank": "30"
+    },
+    {
+        "ID": "8974",
+        "CardName": "Conclave Cavalier",
+        "ELO": "1937",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8975",
+        "ImageURL": "2018\/09\/en_BDf5wz1BrN.png",
+        "Rank": "31"
+    },
+    {
+        "ID": "9112",
+        "CardName": "Status \/\/ Statue",
+        "ELO": "1937",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9113",
+        "ImageURL": "2018\/09\/en_s42V8VvJPd.png",
+        "Rank": "32"
+    },
+    {
+        "ID": "8964",
+        "CardName": "Boros Challenger",
+        "ELO": "1936",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8965",
+        "ImageURL": "2018\/09\/en_WNc7lU8RRx.png",
+        "Rank": "33"
+    },
+    {
+        "ID": "8786",
+        "CardName": "Deadly Visit",
+        "ELO": "1932",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8787",
+        "ImageURL": "2018\/09\/en_t5S73H7Hnt.png",
+        "Rank": "34"
+    },
+    {
+        "ID": "8804",
+        "CardName": "Midnight Reaper",
+        "ELO": "1932",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8805",
+        "ImageURL": "2018\/09\/en_pYYcick7LW.png",
+        "Rank": "35"
+    },
+    {
+        "ID": "8832",
+        "CardName": "Arclight Phoenix",
+        "ELO": "1931",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8833",
+        "ImageURL": "2018\/09\/en_YCU3vLlUCq.png",
+        "Rank": "36"
+    },
+    {
+        "ID": "8692",
+        "CardName": "Luminous Bonds",
+        "ELO": "1927",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8693",
+        "ImageURL": "2018\/09\/en_8aq8vFNGIR.png",
+        "Rank": "37"
+    },
+    {
+        "ID": "8784",
+        "CardName": "Dead Weight",
+        "ELO": "1914",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8785",
+        "ImageURL": "2018\/09\/en_5lGTYWGTE3.png",
+        "Rank": "38"
+    },
+    {
+        "ID": "8896",
+        "CardName": "Beast Whisperer",
+        "ELO": "1911",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8897",
+        "ImageURL": "2018\/09\/en_98AjTXilKa.png",
+        "Rank": "39"
+    },
+    {
+        "ID": "8740",
+        "CardName": "Murmuring Mystic",
+        "ELO": "1911",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8741",
+        "ImageURL": "2018\/09\/en_deobXuPdFp.png",
+        "Rank": "40"
+    },
+    {
+        "ID": "9096",
+        "CardName": "Connive \/\/ Concoct",
+        "ELO": "1897",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9097",
+        "ImageURL": "2018\/09\/en_Fz5zJzOoMK.png",
+        "Rank": "41"
+    },
+    {
+        "ID": "8986",
+        "CardName": "Disinformation Campaign",
+        "ELO": "1896",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8987",
+        "ImageURL": "2018\/09\/en_psUFnfdoTY.png",
+        "Rank": "42"
+    },
+    {
+        "ID": "8746",
+        "CardName": "Nightveil Sprite",
+        "ELO": "1896",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8747",
+        "ImageURL": "2018\/09\/en_dabpJOPjSs.png",
+        "Rank": "43"
+    },
+    {
+        "ID": "8768",
+        "CardName": "Watcher in the Mist",
+        "ELO": "1896",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8769",
+        "ImageURL": "2018\/09\/en_jEV6xwjrCP.png",
+        "Rank": "44"
+    },
+    {
+        "ID": "8702",
+        "CardName": "Sunhome Stalwart",
+        "ELO": "1888",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8703",
+        "ImageURL": "2018\/09\/en_HZScwisLMh.png",
+        "Rank": "45"
+    },
+    {
+        "ID": "8978",
+        "CardName": "Crackling Drake",
+        "ELO": "1887",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8979",
+        "ImageURL": "2018\/09\/en_tzvOTmpchE.png",
+        "Rank": "46"
+    },
+    {
+        "ID": "8954",
+        "CardName": "Artful Takedown",
+        "ELO": "1882",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8955",
+        "ImageURL": "2018\/09\/en_1UfIBJYnGq.png",
+        "Rank": "47"
+    },
+    {
+        "ID": "8716",
+        "CardName": "Citywatch Sphinx",
+        "ELO": "1877",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8717",
+        "ImageURL": "2018\/09\/en_btG1pfghUe.png",
+        "Rank": "48"
+    },
+    {
+        "ID": "9106",
+        "CardName": "Integrity \/\/ Intervention",
+        "ELO": "1874",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9107",
+        "ImageURL": "2018\/09\/en_PKkBktGxTP.png",
+        "Rank": "49"
+    },
+    {
+        "ID": "8698",
+        "CardName": "Roc Charger",
+        "ELO": "1858",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8699",
+        "ImageURL": "2018\/09\/en_BEuCpYMUeQ.png",
+        "Rank": "50"
+    },
+    {
+        "ID": "8932",
+        "CardName": "Pelt Collector",
+        "ELO": "1855",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8933",
+        "ImageURL": "2018\/09\/en_aHZFvl4MiN.png",
+        "Rank": "51"
+    },
+    {
+        "ID": "9070",
+        "CardName": "Truefire Captain",
+        "ELO": "1850",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9071",
+        "ImageURL": "2018\/09\/en_RksH4dEQPC.png",
+        "Rank": "52"
+    },
+    {
+        "ID": "8776",
+        "CardName": "Blood Operative",
+        "ELO": "1846",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8777",
+        "ImageURL": "2018\/09\/en_SmOnL86hCu.png",
+        "Rank": "53"
+    },
+    {
+        "ID": "8880",
+        "CardName": "Runaway Steam-Kin",
+        "ELO": "1846",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8881",
+        "ImageURL": "2018\/09\/en_jjSj5AkmzT.png",
+        "Rank": "54"
+    },
+    {
+        "ID": "8666",
+        "CardName": "Dawn of Hope",
+        "ELO": "1844",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8667",
+        "ImageURL": "2018\/09\/en_DUXCS5jbkb.png",
+        "Rank": "55"
+    },
+    {
+        "ID": "8922",
+        "CardName": "Kraul Harpooner",
+        "ELO": "1830",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8923",
+        "ImageURL": "2018\/09\/en_Sfm8BADBOL.png",
+        "Rank": "56"
+    },
+    {
+        "ID": "9058",
+        "CardName": "Swiftblade Vindicator",
+        "ELO": "1830",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9059",
+        "ImageURL": "2018\/09\/en_C4wYRUB5wR.png",
+        "Rank": "57"
+    },
+    {
+        "ID": "9100",
+        "CardName": "Expansion \/\/ Explosion",
+        "ELO": "1827",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9101",
+        "ImageURL": "2018\/09\/en_oDSGHuYYR2.png",
+        "Rank": "58"
+    },
+    {
+        "ID": "8984",
+        "CardName": "Dimir Spybug",
+        "ELO": "1820",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8985",
+        "ImageURL": "2018\/09\/en_pUKfgsHqRY.png",
+        "Rank": "59"
+    },
+    {
+        "ID": "8712",
+        "CardName": "Capture Sphere",
+        "ELO": "1818",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8713",
+        "ImageURL": "2018\/09\/en_GVMzTqJlpJ.png",
+        "Rank": "60"
+    },
+    {
+        "ID": "8898",
+        "CardName": "Bounty of Might",
+        "ELO": "1813",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8899",
+        "ImageURL": "2018\/09\/en_CxHRu4sr9M.png",
+        "Rank": "61"
+    },
+    {
+        "ID": "8892",
+        "CardName": "Affectionate Indrik",
+        "ELO": "1803",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8893",
+        "ImageURL": "2018\/09\/en_e9Dal59wsb.png",
+        "Rank": "62"
+    },
+    {
+        "ID": "9094",
+        "CardName": "Assure \/\/ Assemble",
+        "ELO": "1803",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9095",
+        "ImageURL": "2018\/09\/en_wqRmBFrUGq.png",
+        "Rank": "63"
+    },
+    {
+        "ID": "9024",
+        "CardName": "Ledev Champion",
+        "ELO": "1801",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9025",
+        "ImageURL": "2018\/09\/en_fOlM6zHAWV.png",
+        "Rank": "64"
+    },
+    {
+        "ID": "8864",
+        "CardName": "Inescapable Blaze",
+        "ELO": "1797",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8865",
+        "ImageURL": "2018\/09\/en_i1IyvDLmOP.png",
+        "Rank": "65"
+    },
+    {
+        "ID": "8972",
+        "CardName": "Charnel Troll",
+        "ELO": "1793",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8973",
+        "ImageURL": "2018\/09\/en_J9vjn0uhOC.png",
+        "Rank": "66"
+    },
+    {
+        "ID": "8848",
+        "CardName": "Experimental Frenzy",
+        "ELO": "1792",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8849",
+        "ImageURL": "2018\/09\/en_StYTsdkQNW.png",
+        "Rank": "67"
+    },
+    {
+        "ID": "9002",
+        "CardName": "Golgari Findbroker",
+        "ELO": "1790",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9003",
+        "ImageURL": "2018\/09\/en_ZqatEeKEiU.png",
+        "Rank": "68"
+    },
+    {
+        "ID": "8678",
+        "CardName": "Healer's Hawk",
+        "ELO": "1786",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8679",
+        "ImageURL": "2018\/09\/en_TbCDco062e.png",
+        "Rank": "69"
+    },
+    {
+        "ID": "9048",
+        "CardName": "Skyknight Legionnaire",
+        "ELO": "1780",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9049",
+        "ImageURL": "2018\/09\/en_ycIIHZVMc0.png",
+        "Rank": "70"
+    },
+    {
+        "ID": "8876",
+        "CardName": "Risk Factor",
+        "ELO": "1777",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8877",
+        "ImageURL": "2018\/09\/en_GTeMeKqq4n.png",
+        "Rank": "71"
+    },
+    {
+        "ID": "8854",
+        "CardName": "Goblin Banneret",
+        "ELO": "1770",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8855",
+        "ImageURL": "2018\/09\/en_rbe9YdGC23.png",
+        "Rank": "72"
+    },
+    {
+        "ID": "9026",
+        "CardName": "Legion Guildmage",
+        "ELO": "1766",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9027",
+        "ImageURL": "2018\/09\/en_71fQappZcv.png",
+        "Rank": "73"
+    },
+    {
+        "ID": "9080",
+        "CardName": "Wee Dragonauts",
+        "ELO": "1762",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9081",
+        "ImageURL": "2018\/09\/en_hMjAsQgQNs.png",
+        "Rank": "74"
+    },
+    {
+        "ID": "8714",
+        "CardName": "Chemister's Insight",
+        "ELO": "1759",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8715",
+        "ImageURL": "2018\/09\/en_fFX7ZGrSKJ.png",
+        "Rank": "75"
+    },
+    {
+        "ID": "9006",
+        "CardName": "House Guildmage",
+        "ELO": "1758",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9007",
+        "ImageURL": "2018\/09\/en_QUpVWEj4i7.png",
+        "Rank": "76"
+    },
+    {
+        "ID": "8842",
+        "CardName": "Direct Current",
+        "ELO": "1756",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8843",
+        "ImageURL": "2018\/09\/en_M4zI2ue5sU.png",
+        "Rank": "77"
+    },
+    {
+        "ID": "9040",
+        "CardName": "Ochran Assassin",
+        "ELO": "1750",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9041",
+        "ImageURL": "2018\/09\/en_uUQOX3rxYW.png",
+        "Rank": "78"
+    },
+    {
+        "ID": "8670",
+        "CardName": "Divine Visitation",
+        "ELO": "1741",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8671",
+        "ImageURL": "2018\/09\/en_Co3HGiNQzd.png",
+        "Rank": "79"
+    },
+    {
+        "ID": "8752",
+        "CardName": "Quasiduplicate",
+        "ELO": "1741",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8753",
+        "ImageURL": "2018\/09\/en_jz3fnvmAHO.png",
+        "Rank": "80"
+    },
+    {
+        "ID": "9092",
+        "CardName": "Whisper Agent",
+        "ELO": "1739",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9093",
+        "ImageURL": "2018\/09\/en_xNSBDqrc5Z.png",
+        "Rank": "81"
+    },
+    {
+        "ID": "8838",
+        "CardName": "Command the Storm",
+        "ELO": "1737",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8839",
+        "ImageURL": "2018\/09\/en_V3U6Qy0vQ8.png",
+        "Rank": "82"
+    },
+    {
+        "ID": "8914",
+        "CardName": "Hatchery Spider",
+        "ELO": "1732",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8915",
+        "ImageURL": "2018\/09\/en_BrgAmkKbSv.png",
+        "Rank": "83"
+    },
+    {
+        "ID": "9098",
+        "CardName": "Discovery \/\/ Dispersal",
+        "ELO": "1723",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9099",
+        "ImageURL": "2018\/09\/en_xVAKMr2PnZ.png",
+        "Rank": "84"
+    },
+    {
+        "ID": "8966",
+        "CardName": "Camaraderie",
+        "ELO": "1719",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8967",
+        "ImageURL": "2018\/09\/en_PZ8LN7sNCY.png",
+        "Rank": "85"
+    },
+    {
+        "ID": "8976",
+        "CardName": "Conclave Guildmage",
+        "ELO": "1718",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8977",
+        "ImageURL": "2018\/09\/en_5yycaYOOga.png",
+        "Rank": "86"
+    },
+    {
+        "ID": "9008",
+        "CardName": "Hypothesizzle",
+        "ELO": "1718",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9009",
+        "ImageURL": "2018\/09\/en_BhsLE1wlg3.png",
+        "Rank": "87"
+    },
+    {
+        "ID": "9010",
+        "CardName": "Ionize",
+        "ELO": "1714",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9011",
+        "ImageURL": "2018\/09\/en_sTifUd4V5f.png",
+        "Rank": "88"
+    },
+    {
+        "ID": "8814",
+        "CardName": "Plaguecrafter",
+        "ELO": "1714",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8815",
+        "ImageURL": "2018\/09\/en_imzlKs3HPb.png",
+        "Rank": "89"
+    },
+    {
+        "ID": "8980",
+        "CardName": "Darkblade Agent",
+        "ELO": "1711",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8981",
+        "ImageURL": "2018\/09\/en_1HMQ9pZUgh.png",
+        "Rank": "90"
+    },
+    {
+        "ID": "8682",
+        "CardName": "Inspiring Unicorn",
+        "ELO": "1707",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8683",
+        "ImageURL": "2018\/09\/en_jpzTeMvfAu.png",
+        "Rank": "91"
+    },
+    {
+        "ID": "9064",
+        "CardName": "Thought Erasure",
+        "ELO": "1704",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9065",
+        "ImageURL": "2018\/09\/en_CE2bUZtFjs.png",
+        "Rank": "92"
+    },
+    {
+        "ID": "9038",
+        "CardName": "Notion Rain",
+        "ELO": "1700",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9039",
+        "ImageURL": "2018\/09\/en_yfxKnj0GEW.png",
+        "Rank": "93"
+    },
+    {
+        "ID": "8856",
+        "CardName": "Goblin Cratermaker",
+        "ELO": "1695",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8857",
+        "ImageURL": "2018\/09\/en_wzNyvZffyf.png",
+        "Rank": "94"
+    },
+    {
+        "ID": "8846",
+        "CardName": "Erratic Cyclops",
+        "ELO": "1693",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8847",
+        "ImageURL": "2018\/09\/en_nncOXUk2Ah.png",
+        "Rank": "95"
+    },
+    {
+        "ID": "8960",
+        "CardName": "Beacon Bolt",
+        "ELO": "1690",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8961",
+        "ImageURL": "2018\/09\/en_zV9MaPyb5c.png",
+        "Rank": "96"
+    },
+    {
+        "ID": "8760",
+        "CardName": "Thoughtbound Phantasm",
+        "ELO": "1690",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8761",
+        "ImageURL": "2018\/09\/en_HQdTzwyl86.png",
+        "Rank": "97"
+    },
+    {
+        "ID": "8906",
+        "CardName": "District Guide",
+        "ELO": "1686",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8907",
+        "ImageURL": "2018\/09\/en_b6YScUyoIu.png",
+        "Rank": "98"
+    },
+    {
+        "ID": "9084",
+        "CardName": "Fresh-Faced Recruit",
+        "ELO": "1674",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9085",
+        "ImageURL": "2018\/09\/en_Wx0iNiMkue.png",
+        "Rank": "99"
+    },
+    {
+        "ID": "9166",
+        "CardName": "Steam Vents",
+        "ELO": "1672",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9167",
+        "ImageURL": "2018\/09\/en_fX1qglWknx.png",
+        "Rank": "100"
+    },
+    {
+        "ID": "9054",
+        "CardName": "Swarm Guildmage",
+        "ELO": "1667",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9055",
+        "ImageURL": "2018\/09\/en_wJChOjsUfS.png",
+        "Rank": "101"
+    },
+    {
+        "ID": "9022",
+        "CardName": "League Guildmage",
+        "ELO": "1660",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9023",
+        "ImageURL": "2018\/09\/en_wq79LzXvk9.png",
+        "Rank": "102"
+    },
+    {
+        "ID": "8738",
+        "CardName": "Mission Briefing",
+        "ELO": "1657",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8739",
+        "ImageURL": "2018\/09\/en_giztSiV1bc.png",
+        "Rank": "103"
+    },
+    {
+        "ID": "9046",
+        "CardName": "Rosemane Centaur",
+        "ELO": "1649",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9047",
+        "ImageURL": "2018\/09\/en_w9cZkGtUS3.png",
+        "Rank": "104"
+    },
+    {
+        "ID": "9104",
+        "CardName": "Flower \/\/ Flourish",
+        "ELO": "1648",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9105",
+        "ImageURL": "2018\/09\/en_jFe8s7iv6d.png",
+        "Rank": "105"
+    },
+    {
+        "ID": "8694",
+        "CardName": "Parhelion Patrol",
+        "ELO": "1642",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8695",
+        "ImageURL": "2018\/09\/en_6N659pJwgx.png",
+        "Rank": "106"
+    },
+    {
+        "ID": "8758",
+        "CardName": "Sinister Sabotage",
+        "ELO": "1638",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8759",
+        "ImageURL": "2018\/09\/en_sZsnLz6L3v.png",
+        "Rank": "107"
+    },
+    {
+        "ID": "8862",
+        "CardName": "Hellkite Whelp",
+        "ELO": "1637",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8863",
+        "ImageURL": "2018\/09\/en_QU4FE80x8i.png",
+        "Rank": "108"
+    },
+    {
+        "ID": "8794",
+        "CardName": "Hired Poisoner",
+        "ELO": "1621",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8795",
+        "ImageURL": "2018\/09\/en_RzFJNmEuuh.png",
+        "Rank": "109"
+    },
+    {
+        "ID": "8808",
+        "CardName": "Necrotic Wound",
+        "ELO": "1619",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8809",
+        "ImageURL": "2018\/09\/en_kSx9ls39fH.png",
+        "Rank": "110"
+    },
+    {
+        "ID": "8820",
+        "CardName": "Severed Strands",
+        "ELO": "1618",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8821",
+        "ImageURL": "2018\/09\/en_80sfHHsVhr.png",
+        "Rank": "111"
+    },
+    {
+        "ID": "8938",
+        "CardName": "Siege Wurm",
+        "ELO": "1611",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8939",
+        "ImageURL": "2018\/09\/en_cAcXsWioab.png",
+        "Rank": "112"
+    },
+    {
+        "ID": "9000",
+        "CardName": "Goblin Electromancer",
+        "ELO": "1607",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9001",
+        "ImageURL": "2018\/09\/en_iUC2P4MmSW.png",
+        "Rank": "113"
+    },
+    {
+        "ID": "8890",
+        "CardName": "Wojek Bodyguard",
+        "ELO": "1599",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8891",
+        "ImageURL": "2018\/09\/en_Yrpvrvtyys.png",
+        "Rank": "114"
+    },
+    {
+        "ID": "9118",
+        "CardName": "Chromatic Lantern",
+        "ELO": "1591",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9119",
+        "ImageURL": "2018\/09\/en_donUcCDbYo.png",
+        "Rank": "115"
+    },
+    {
+        "ID": "9088",
+        "CardName": "Pitiless Gorgon",
+        "ELO": "1591",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9089",
+        "ImageURL": "2018\/09\/en_QWOCUhzoK2.png",
+        "Rank": "116"
+    },
+    {
+        "ID": "9116",
+        "CardName": "Chamber Sentry",
+        "ELO": "1587",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9117",
+        "ImageURL": "2018\/09\/en_8kxGzmXfW8.png",
+        "Rank": "117"
+    },
+    {
+        "ID": "8700",
+        "CardName": "Skyline Scout",
+        "ELO": "1586",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8701",
+        "ImageURL": "2018\/09\/en_p9ZON00Xxn.png",
+        "Rank": "118"
+    },
+    {
+        "ID": "9130",
+        "CardName": "Rampaging Monument",
+        "ELO": "1584",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9131",
+        "ImageURL": "2018\/09\/en_mrMIda5iWY.png",
+        "Rank": "119"
+    },
+    {
+        "ID": "9086",
+        "CardName": "Piston-Fist Cyclops",
+        "ELO": "1583",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9087",
+        "ImageURL": "2018\/09\/en_VcIc0eZiWV.png",
+        "Rank": "120"
+    },
+    {
+        "ID": "8742",
+        "CardName": "Muse Drake",
+        "ELO": "1581",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8743",
+        "ImageURL": "2018\/09\/en_WmCrAKXq62.png",
+        "Rank": "121"
+    },
+    {
+        "ID": "8654",
+        "CardName": "Bounty Agent",
+        "ELO": "1579",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8655",
+        "ImageURL": "2018\/09\/en_4ZO2NFWXRk.png",
+        "Rank": "122"
+    },
+    {
+        "ID": "8658",
+        "CardName": "Citywide Bust",
+        "ELO": "1579",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8659",
+        "ImageURL": "2018\/09\/en_HnzDX4nfIW.png",
+        "Rank": "123"
+    },
+    {
+        "ID": "9082",
+        "CardName": "Worldsoul Colossus",
+        "ELO": "1573",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9083",
+        "ImageURL": "2018\/09\/en_zPRhe3zYEQ.png",
+        "Rank": "124"
+    },
+    {
+        "ID": "8908",
+        "CardName": "Generous Stray",
+        "ELO": "1572",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8909",
+        "ImageURL": "2018\/09\/en_WHYK8LWyVw.png",
+        "Rank": "125"
+    },
+    {
+        "ID": "9158",
+        "CardName": "Overgrown Tomb",
+        "ELO": "1567",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9159",
+        "ImageURL": "2018\/09\/en_ele5h9dqJV.png",
+        "Rank": "126"
+    },
+    {
+        "ID": "8672",
+        "CardName": "Flight of Equenauts",
+        "ELO": "1563",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8673",
+        "ImageURL": "2018\/09\/en_txJ5XsuRDt.png",
+        "Rank": "127"
+    },
+    {
+        "ID": "8762",
+        "CardName": "Unexplained Disappearance",
+        "ELO": "1561",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8763",
+        "ImageURL": "2018\/09\/en_kZRtpEBGlN.png",
+        "Rank": "128"
+    },
+    {
+        "ID": "8886",
+        "CardName": "Sure Strike",
+        "ELO": "1559",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8887",
+        "ImageURL": "2018\/09\/en_RCMAMfRCKP.png",
+        "Rank": "129"
+    },
+    {
+        "ID": "8894",
+        "CardName": "Arboretum Elemental",
+        "ELO": "1555",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8895",
+        "ImageURL": "2018\/09\/en_7r6ZiTDOnd.png",
+        "Rank": "130"
+    },
+    {
+        "ID": "8844",
+        "CardName": "Electrostatic Field",
+        "ELO": "1555",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8845",
+        "ImageURL": "2018\/09\/en_iHsW4OabFk.png",
+        "Rank": "131"
+    },
+    {
+        "ID": "9050",
+        "CardName": "Sonic Assault",
+        "ELO": "1554",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9051",
+        "ImageURL": "2018\/09\/en_fp9sQ0YkjS.png",
+        "Rank": "132"
+    },
+    {
+        "ID": "8652",
+        "CardName": "Blade Instructor",
+        "ELO": "1549",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8653",
+        "ImageURL": "2018\/09\/en_zK5bVwlUqz.png",
+        "Rank": "133"
+    },
+    {
+        "ID": "8968",
+        "CardName": "Centaur Peacemaker",
+        "ELO": "1548",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8969",
+        "ImageURL": "2018\/09\/en_YyZv5X6aeA.png",
+        "Rank": "134"
+    },
+    {
+        "ID": "8830",
+        "CardName": "Whispering Snitch",
+        "ELO": "1547",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8831",
+        "ImageURL": "2018\/09\/en_agFWnML7dj.png",
+        "Rank": "135"
+    },
+    {
+        "ID": "8696",
+        "CardName": "Righteous Blow",
+        "ELO": "1546",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8697",
+        "ImageURL": "2018\/09\/en_F38oLa0PsG.png",
+        "Rank": "136"
+    },
+    {
+        "ID": "9168",
+        "CardName": "Temple Garden",
+        "ELO": "1541",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9169",
+        "ImageURL": "2018\/09\/en_5gF9cjVAp8.png",
+        "Rank": "137"
+    },
+    {
+        "ID": "8676",
+        "CardName": "Haazda Marshal",
+        "ELO": "1535",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8677",
+        "ImageURL": "2018\/09\/en_ylkzMLYbqx.png",
+        "Rank": "138"
+    },
+    {
+        "ID": "8998",
+        "CardName": "Glowspore Shaman",
+        "ELO": "1534",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8999",
+        "ImageURL": "2018\/09\/en_5n8maI1Ab7.png",
+        "Rank": "139"
+    },
+    {
+        "ID": "8882",
+        "CardName": "Smelt-Ward Minotaur",
+        "ELO": "1529",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8883",
+        "ImageURL": "2018\/09\/en_pOk2IoU90a.png",
+        "Rank": "140"
+    },
+    {
+        "ID": "9056",
+        "CardName": "Swathcutter Giant",
+        "ELO": "1525",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9057",
+        "ImageURL": "2018\/09\/en_zKqgHvF03d.png",
+        "Rank": "141"
+    },
+    {
+        "ID": "8722",
+        "CardName": "Dimir Informant",
+        "ELO": "1521",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8723",
+        "ImageURL": "2018\/09\/en_CZKGBy8ib0.png",
+        "Rank": "142"
+    },
+    {
+        "ID": "9160",
+        "CardName": "Sacred Foundry",
+        "ELO": "1520",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9161",
+        "ImageURL": "2018\/09\/en_wtHUdEM36p.png",
+        "Rank": "143"
+    },
+    {
+        "ID": "9170",
+        "CardName": "Watery Grave",
+        "ELO": "1519",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9171",
+        "ImageURL": "2018\/09\/en_eFa86ywKwG.png",
+        "Rank": "144"
+    },
+    {
+        "ID": "8798",
+        "CardName": "Lotleth Giant",
+        "ELO": "1517",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8799",
+        "ImageURL": "2018\/09\/en_eYGEP9VfLY.png",
+        "Rank": "145"
+    },
+    {
+        "ID": "8680",
+        "CardName": "Hunted Witness",
+        "ELO": "1514",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8681",
+        "ImageURL": "2018\/09\/en_n9OQbBlRY6.png",
+        "Rank": "146"
+    },
+    {
+        "ID": "8936",
+        "CardName": "Prey Upon",
+        "ELO": "1514",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8937",
+        "ImageURL": "2018\/09\/en_4QKCcn8dZU.png",
+        "Rank": "147"
+    },
+    {
+        "ID": "8704",
+        "CardName": "Sworn Companions",
+        "ELO": "1511",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8705",
+        "ImageURL": "2018\/09\/en_GplPGVGVz3.png",
+        "Rank": "148"
+    },
+    {
+        "ID": "8778",
+        "CardName": "Burglar Rat",
+        "ELO": "1508",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8779",
+        "ImageURL": "2018\/09\/en_m2nQspKyFx.png",
+        "Rank": "149"
+    },
+    {
+        "ID": "8918",
+        "CardName": "Ironshell Beetle",
+        "ELO": "1505",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8919",
+        "ImageURL": "2018\/09\/en_ioAGJmiusx.png",
+        "Rank": "150"
+    },
+    {
+        "ID": "9044",
+        "CardName": "Rhizome Lurcher",
+        "ELO": "1504",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9045",
+        "ImageURL": "2018\/09\/en_i57L18rpW2.png",
+        "Rank": "151"
+    },
+    {
+        "ID": "8924",
+        "CardName": "Might of the Masses",
+        "ELO": "1503",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8925",
+        "ImageURL": "2018\/09\/en_Mk0WosraoZ.png",
+        "Rank": "152"
+    },
+    {
+        "ID": "9090",
+        "CardName": "Vernadi Shieldmate",
+        "ELO": "1500",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9091",
+        "ImageURL": "2018\/09\/en_fhTNLOYyS1.png",
+        "Rank": "153"
+    },
+    {
+        "ID": "8940",
+        "CardName": "Sprouting Renewal",
+        "ELO": "1497",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8941",
+        "ImageURL": "2018\/09\/en_QbPJpG8PfN.png",
+        "Rank": "154"
+    },
+    {
+        "ID": "8748",
+        "CardName": "Omnispell Adept",
+        "ELO": "1494",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8749",
+        "ImageURL": "2018\/09\/en_5WcoRdaRQN.png",
+        "Rank": "155"
+    },
+    {
+        "ID": "8750",
+        "CardName": "Passwall Adept",
+        "ELO": "1493",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8751",
+        "ImageURL": "2018\/09\/en_CyW6rQstgL.png",
+        "Rank": "156"
+    },
+    {
+        "ID": "9032",
+        "CardName": "Molderhulk",
+        "ELO": "1490",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9033",
+        "ImageURL": "2018\/09\/en_7fLd8dGP4f.png",
+        "Rank": "157"
+    },
+    {
+        "ID": "9108",
+        "CardName": "Invert \/\/ Invent",
+        "ELO": "1489",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9109",
+        "ImageURL": "2018\/09\/en_uMvoYn924Q.png",
+        "Rank": "158"
+    },
+    {
+        "ID": "8874",
+        "CardName": "Ornery Goblin",
+        "ELO": "1483",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8875",
+        "ImageURL": "2018\/09\/en_9inBJOzLBC.png",
+        "Rank": "159"
+    },
+    {
+        "ID": "8822",
+        "CardName": "Spinal Centipede",
+        "ELO": "1479",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8823",
+        "ImageURL": "2018\/09\/en_t8TlHnuq2T.png",
+        "Rank": "160"
+    },
+    {
+        "ID": "9052",
+        "CardName": "Sumala Woodshaper",
+        "ELO": "1478",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9053",
+        "ImageURL": "2018\/09\/en_hcXGpLPhHd.png",
+        "Rank": "161"
+    },
+    {
+        "ID": "8674",
+        "CardName": "Gird for Battle",
+        "ELO": "1477",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8675",
+        "ImageURL": "2018\/09\/en_t7vyLXIV2O.png",
+        "Rank": "162"
+    },
+    {
+        "ID": "8706",
+        "CardName": "Take Heart",
+        "ELO": "1477",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8707",
+        "ImageURL": "2018\/09\/en_IjQcNhdHWw.png",
+        "Rank": "163"
+    },
+    {
+        "ID": "8962",
+        "CardName": "Beamsplitter Mage",
+        "ELO": "1476",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8963",
+        "ImageURL": "2018\/09\/en_prSKu1MZgg.png",
+        "Rank": "164"
+    },
+    {
+        "ID": "9124",
+        "CardName": "Glaive of the Guildpact",
+        "ELO": "1476",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9125",
+        "ImageURL": "2018\/09\/en_K47wR7WZfr.png",
+        "Rank": "165"
+    },
+    {
+        "ID": "8792",
+        "CardName": "Gruesome Menagerie",
+        "ELO": "1474",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8793",
+        "ImageURL": "2018\/09\/en_GBDJMBsryR.png",
+        "Rank": "166"
+    },
+    {
+        "ID": "8720",
+        "CardName": "Devious Cover-Up",
+        "ELO": "1473",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8721",
+        "ImageURL": "2018\/09\/en_ccKdmXj3mc.png",
+        "Rank": "167"
+    },
+    {
+        "ID": "8994",
+        "CardName": "Firemind's Research",
+        "ELO": "1472",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8995",
+        "ImageURL": "2018\/09\/en_YPYacHxfCU.png",
+        "Rank": "168"
+    },
+    {
+        "ID": "8834",
+        "CardName": "Barging Sergeant",
+        "ELO": "1470",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8835",
+        "ImageURL": "2018\/09\/en_tfeUOXIaZt.png",
+        "Rank": "169"
+    },
+    {
+        "ID": "8944",
+        "CardName": "Vigorspore Wurm",
+        "ELO": "1468",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8945",
+        "ImageURL": "2018\/09\/en_5BP70YNwl1.png",
+        "Rank": "170"
+    },
+    {
+        "ID": "8900",
+        "CardName": "Circuitous Route",
+        "ELO": "1466",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8901",
+        "ImageURL": "2018\/09\/en_1IbtphP02V.png",
+        "Rank": "171"
+    },
+    {
+        "ID": "8754",
+        "CardName": "Radical Idea",
+        "ELO": "1460",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8755",
+        "ImageURL": "2018\/09\/en_DNiZbJKh10.png",
+        "Rank": "172"
+    },
+    {
+        "ID": "8724",
+        "CardName": "Disdainful Stroke",
+        "ELO": "1459",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8725",
+        "ImageURL": "2018\/09\/en_nr23pGSySl.png",
+        "Rank": "173"
+    },
+    {
+        "ID": "8812",
+        "CardName": "Pilfering Imp",
+        "ELO": "1456",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8813",
+        "ImageURL": "2018\/09\/en_ARTAVGJATe.png",
+        "Rank": "174"
+    },
+    {
+        "ID": "9030",
+        "CardName": "Mnemonic Betrayal",
+        "ELO": "1454",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9031",
+        "ImageURL": "2018\/09\/en_gAvKuZup4J.png",
+        "Rank": "175"
+    },
+    {
+        "ID": "8796",
+        "CardName": "Kraul Swarm",
+        "ELO": "1453",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8797",
+        "ImageURL": "2018\/09\/en_emEPaolzQB.png",
+        "Rank": "176"
+    },
+    {
+        "ID": "8840",
+        "CardName": "Cosmotronic Wave",
+        "ELO": "1452",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8841",
+        "ImageURL": "2018\/09\/en_3SWBaWMKjR.png",
+        "Rank": "177"
+    },
+    {
+        "ID": "9122",
+        "CardName": "Gatekeeper Gargoyle",
+        "ELO": "1450",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9123",
+        "ImageURL": "2018\/09\/en_oTAMF69kRc.png",
+        "Rank": "178"
+    },
+    {
+        "ID": "8668",
+        "CardName": "Demotion",
+        "ELO": "1448",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8669",
+        "ImageURL": "2018\/09\/en_UqiuC24fIh.png",
+        "Rank": "179"
+    },
+    {
+        "ID": "8800",
+        "CardName": "Mausoleum Secrets",
+        "ELO": "1446",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8801",
+        "ImageURL": "2018\/09\/en_p81jGPdl8c.png",
+        "Rank": "180"
+    },
+    {
+        "ID": "8878",
+        "CardName": "Rubblebelt Boar",
+        "ELO": "1446",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8879",
+        "ImageURL": "2018\/09\/en_Te1Jy5c7zS.png",
+        "Rank": "181"
+    },
+    {
+        "ID": "8970",
+        "CardName": "Chance for Glory",
+        "ELO": "1444",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8971",
+        "ImageURL": "2018\/09\/en_O5LQT2xuIv.png",
+        "Rank": "182"
+    },
+    {
+        "ID": "8660",
+        "CardName": "Collar the Culprit",
+        "ELO": "1440",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8661",
+        "ImageURL": "2018\/09\/en_5FViBhmIcn.png",
+        "Rank": "183"
+    },
+    {
+        "ID": "8774",
+        "CardName": "Bartizan Bats",
+        "ELO": "1439",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8775",
+        "ImageURL": "2018\/09\/en_CtNwV8utkJ.png",
+        "Rank": "184"
+    },
+    {
+        "ID": "8826",
+        "CardName": "Veiled Shade",
+        "ELO": "1433",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8827",
+        "ImageURL": "2018\/09\/en_gV6q0g7u9w.png",
+        "Rank": "185"
+    },
+    {
+        "ID": "8904",
+        "CardName": "Devkarin Dissident",
+        "ELO": "1427",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8905",
+        "ImageURL": "2018\/09\/en_F2OwT66S4V.png",
+        "Rank": "186"
+    },
+    {
+        "ID": "9014",
+        "CardName": "Join Shields",
+        "ELO": "1424",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9015",
+        "ImageURL": "2018\/09\/en_4X3RpwYp8C.png",
+        "Rank": "187"
+    },
+    {
+        "ID": "9072",
+        "CardName": "Undercity Uprising",
+        "ELO": "1417",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9073",
+        "ImageURL": "2018\/09\/en_8LN1hOoQya.png",
+        "Rank": "188"
+    },
+    {
+        "ID": "8946",
+        "CardName": "Vivid Revival",
+        "ELO": "1406",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8947",
+        "ImageURL": "2018\/09\/en_j5uzh0lmB9.png",
+        "Rank": "189"
+    },
+    {
+        "ID": "8916",
+        "CardName": "Hitchclaw Recluse",
+        "ELO": "1403",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8917",
+        "ImageURL": "2018\/09\/en_tAHnLQTtd3.png",
+        "Rank": "190"
+    },
+    {
+        "ID": "8734",
+        "CardName": "Leapfrog",
+        "ELO": "1400",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8735",
+        "ImageURL": "2018\/09\/en_B9Vmbm5N5a.png",
+        "Rank": "191"
+    },
+    {
+        "ID": "8824",
+        "CardName": "Undercity Necrolisk",
+        "ELO": "1400",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8825",
+        "ImageURL": "2018\/09\/en_NQ9sqo9Tor.png",
+        "Rank": "192"
+    },
+    {
+        "ID": "9004",
+        "CardName": "Hammer Dropper",
+        "ELO": "1399",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9005",
+        "ImageURL": "2018\/09\/en_pI3rTVO3gh.png",
+        "Rank": "193"
+    },
+    {
+        "ID": "8690",
+        "CardName": "Loxodon Restorer",
+        "ELO": "1397",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8691",
+        "ImageURL": "2018\/09\/en_I4xPQBZFzG.png",
+        "Rank": "194"
+    },
+    {
+        "ID": "9152",
+        "CardName": "Guildmages' Forum",
+        "ELO": "1392",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9153",
+        "ImageURL": "2018\/09\/en_WHk4TxSBzQ.png",
+        "Rank": "195"
+    },
+    {
+        "ID": "8756",
+        "CardName": "Selective Snare",
+        "ELO": "1387",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8757",
+        "ImageURL": "2018\/09\/en_5f6hccuvML.png",
+        "Rank": "196"
+    },
+    {
+        "ID": "8686",
+        "CardName": "Ledev Guardian",
+        "ELO": "1377",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8687",
+        "ImageURL": "2018\/09\/en_T7l6CwXKyz.png",
+        "Rank": "197"
+    },
+    {
+        "ID": "8684",
+        "CardName": "Intrusive Packbeast",
+        "ELO": "1375",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8685",
+        "ImageURL": "2018\/09\/en_VqT5vXyCQL.png",
+        "Rank": "198"
+    },
+    {
+        "ID": "8852",
+        "CardName": "Fire Urchin",
+        "ELO": "1371",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8853",
+        "ImageURL": "2018\/09\/en_ijrxSorbKL.png",
+        "Rank": "199"
+    },
+    {
+        "ID": "8736",
+        "CardName": "Maximize Altitude",
+        "ELO": "1361",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8737",
+        "ImageURL": "2018\/09\/en_IoQrVaTvyS.png",
+        "Rank": "200"
+    },
+    {
+        "ID": "8950",
+        "CardName": "Wild Ceratok",
+        "ELO": "1361",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8951",
+        "ImageURL": "2018\/09\/en_YE7uw2R89C.png",
+        "Rank": "201"
+    },
+    {
+        "ID": "9134",
+        "CardName": "Silent Dart",
+        "ELO": "1358",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9135",
+        "ImageURL": "2018\/09\/en_EUGSAlmTTa.png",
+        "Rank": "202"
+    },
+    {
+        "ID": "8744",
+        "CardName": "Narcomoeba",
+        "ELO": "1355",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8745",
+        "ImageURL": "2018\/09\/en_Y6ccjgmxch.png",
+        "Rank": "203"
+    },
+    {
+        "ID": "8902",
+        "CardName": "Crushing Canopy",
+        "ELO": "1353",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8903",
+        "ImageURL": "2018\/09\/en_3HSTrfOLIi.png",
+        "Rank": "204"
+    },
+    {
+        "ID": "8836",
+        "CardName": "Book Devourer",
+        "ELO": "1350",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8837",
+        "ImageURL": "2018\/09\/en_5tnVOmwLv6.png",
+        "Rank": "205"
+    },
+    {
+        "ID": "8790",
+        "CardName": "Douser of Lights",
+        "ELO": "1350",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8791",
+        "ImageURL": "2018\/09\/en_V37YbEexWH.png",
+        "Rank": "206"
+    },
+    {
+        "ID": "9066",
+        "CardName": "Thousand-Year Storm",
+        "ELO": "1346",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9067",
+        "ImageURL": "2018\/09\/en_vHumMmIMYN.png",
+        "Rank": "207"
+    },
+    {
+        "ID": "8872",
+        "CardName": "Maximize Velocity",
+        "ELO": "1340",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8873",
+        "ImageURL": "2018\/09\/en_41hNoOxMHi.png",
+        "Rank": "208"
+    },
+    {
+        "ID": "8802",
+        "CardName": "Mephitic Vapors",
+        "ELO": "1335",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8803",
+        "ImageURL": "2018\/09\/en_tYFVW8S4tt.png",
+        "Rank": "209"
+    },
+    {
+        "ID": "8780",
+        "CardName": "Child of Night",
+        "ELO": "1331",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8781",
+        "ImageURL": "2018\/09\/en_pI3Il4EK7v.png",
+        "Rank": "210"
+    },
+    {
+        "ID": "8850",
+        "CardName": "Fearless Halberdier",
+        "ELO": "1330",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8851",
+        "ImageURL": "2018\/09\/en_CZJNgMGDB2.png",
+        "Rank": "211"
+    },
+    {
+        "ID": "8664",
+        "CardName": "Crush Contraband",
+        "ELO": "1322",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8665",
+        "ImageURL": "2018\/09\/en_KAp0JyCsG7.png",
+        "Rank": "212"
+    },
+    {
+        "ID": "8948",
+        "CardName": "Wary Okapi",
+        "ELO": "1319",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8949",
+        "ImageURL": "2018\/09\/en_GrCBISFIdA.png",
+        "Rank": "213"
+    },
+    {
+        "ID": "8928",
+        "CardName": "Pack's Favor",
+        "ELO": "1318",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8929",
+        "ImageURL": "2018\/09\/en_QSLWwZnsCI.png",
+        "Rank": "214"
+    },
+    {
+        "ID": "8990",
+        "CardName": "Erstwhile Trooper",
+        "ELO": "1317",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8991",
+        "ImageURL": "2018\/09\/en_m5V7sa8Ou2.png",
+        "Rank": "215"
+    },
+    {
+        "ID": "8860",
+        "CardName": "Gravitic Punch",
+        "ELO": "1315",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8861",
+        "ImageURL": "2018\/09\/en_yTmYp60Al7.png",
+        "Rank": "216"
+    },
+    {
+        "ID": "8910",
+        "CardName": "Golgari Raiders",
+        "ELO": "1313",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8911",
+        "ImageURL": "2018\/09\/en_8zT3pDRGHp.png",
+        "Rank": "217"
+    },
+    {
+        "ID": "8920",
+        "CardName": "Kraul Foragers",
+        "ELO": "1312",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8921",
+        "ImageURL": "2018\/09\/en_fk5iY2XiiH.png",
+        "Rank": "218"
+    },
+    {
+        "ID": "8732",
+        "CardName": "Guild Summit",
+        "ELO": "1310",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8733",
+        "ImageURL": "2018\/09\/en_3th5z3eQx3.png",
+        "Rank": "219"
+    },
+    {
+        "ID": "9156",
+        "CardName": "Izzet Guildgate (b)",
+        "ELO": "1310",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9157",
+        "ImageURL": "2018\/09\/en_o0bXOMWwcH.png",
+        "Rank": "220"
+    },
+    {
+        "ID": "8718",
+        "CardName": "Dazzling Lights",
+        "ELO": "1306",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8719",
+        "ImageURL": "2018\/09\/en_0ACqTxEOS9.png",
+        "Rank": "221"
+    },
+    {
+        "ID": "8730",
+        "CardName": "Enhanced Surveillance",
+        "ELO": "1306",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8731",
+        "ImageURL": "2018\/09\/en_x0ONsoipuO.png",
+        "Rank": "222"
+    },
+    {
+        "ID": "8764",
+        "CardName": "Vedalken Mesmerist",
+        "ELO": "1296",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8765",
+        "ImageURL": "2018\/09\/en_DyfHCbhowF.png",
+        "Rank": "223"
+    },
+    {
+        "ID": "9142",
+        "CardName": "Dimir Guildgate (a)",
+        "ELO": "1294",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9143",
+        "ImageURL": "2018\/09\/en_4118hBxAKP.png",
+        "Rank": "224"
+    },
+    {
+        "ID": "9148",
+        "CardName": "Golgari Guildgate (a)",
+        "ELO": "1293",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9149",
+        "ImageURL": "2018\/09\/en_zgxeKTvvQF.png",
+        "Rank": "225"
+    },
+    {
+        "ID": "8708",
+        "CardName": "Tenth District Guard",
+        "ELO": "1285",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8709",
+        "ImageURL": "2018\/09\/en_Np3dHeeREp.png",
+        "Rank": "226"
+    },
+    {
+        "ID": "8806",
+        "CardName": "Moodmark Painter",
+        "ELO": "1283",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8807",
+        "ImageURL": "2018\/09\/en_PeGiNFT3AN.png",
+        "Rank": "227"
+    },
+    {
+        "ID": "8728",
+        "CardName": "Drowned Secrets",
+        "ELO": "1282",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8729",
+        "ImageURL": "2018\/09\/en_XLIuvlMSAk.png",
+        "Rank": "228"
+    },
+    {
+        "ID": "9150",
+        "CardName": "Golgari Guildgate (b)",
+        "ELO": "1278",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9151",
+        "ImageURL": "2018\/09\/en_xshkRMBqjp.png",
+        "Rank": "229"
+    },
+    {
+        "ID": "8870",
+        "CardName": "Maniacal Rage",
+        "ELO": "1278",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8871",
+        "ImageURL": "2018\/09\/en_NMqTfQsRHR.png",
+        "Rank": "230"
+    },
+    {
+        "ID": "8912",
+        "CardName": "Grappling Sundew",
+        "ELO": "1274",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8913",
+        "ImageURL": "2018\/09\/en_ciHwy1Djap.png",
+        "Rank": "231"
+    },
+    {
+        "ID": "8772",
+        "CardName": "Barrier of Bones",
+        "ELO": "1263",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8773",
+        "ImageURL": "2018\/09\/en_b8IxbbfLkA.png",
+        "Rank": "232"
+    },
+    {
+        "ID": "8884",
+        "CardName": "Street Riot",
+        "ELO": "1263",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8885",
+        "ImageURL": "2018\/09\/en_zFwl7ERfG0.png",
+        "Rank": "233"
+    },
+    {
+        "ID": "8934",
+        "CardName": "Portcullis Vine",
+        "ELO": "1259",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8935",
+        "ImageURL": "2018\/09\/en_igoozpm2Bk.png",
+        "Rank": "234"
+    },
+    {
+        "ID": "9154",
+        "CardName": "Izzet Guildgate (a)",
+        "ELO": "1242",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9155",
+        "ImageURL": "2018\/09\/en_eFzm2rqMWM.png",
+        "Rank": "235"
+    },
+    {
+        "ID": "9076",
+        "CardName": "Unmoored Ego",
+        "ELO": "1242",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "9077",
+        "ImageURL": "2018\/09\/en_cTXfhpBJGs.png",
+        "Rank": "236"
+    },
+    {
+        "ID": "9128",
+        "CardName": "Izzet Locket",
+        "ELO": "1233",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9129",
+        "ImageURL": "2018\/09\/en_ZQBzKJguTX.png",
+        "Rank": "237"
+    },
+    {
+        "ID": "8888",
+        "CardName": "Torch Courier",
+        "ELO": "1233",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8889",
+        "ImageURL": "2018\/09\/en_dSpTeDqBxO.png",
+        "Rank": "238"
+    },
+    {
+        "ID": "8782",
+        "CardName": "Creeping Chill",
+        "ELO": "1231",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8783",
+        "ImageURL": "2018\/09\/en_2SqFckkXvK.png",
+        "Rank": "239"
+    },
+    {
+        "ID": "8996",
+        "CardName": "Garrison Sergeant",
+        "ELO": "1231",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "gold",
+        "Image": "8997",
+        "ImageURL": "2018\/09\/en_BjTsm4ebnz.png",
+        "Rank": "240"
+    },
+    {
+        "ID": "9140",
+        "CardName": "Boros Guildgate (b)",
+        "ELO": "1225",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9141",
+        "ImageURL": "2018\/09\/en_RIeimoy4BJ.png",
+        "Rank": "241"
+    },
+    {
+        "ID": "8942",
+        "CardName": "Urban Utopia",
+        "ELO": "1222",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8943",
+        "ImageURL": "2018\/09\/en_pXQgvognJJ.png",
+        "Rank": "242"
+    },
+    {
+        "ID": "9164",
+        "CardName": "Selesnya Guildgate (b)",
+        "ELO": "1221",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9165",
+        "ImageURL": "2018\/09\/en_KLx1Etqyf4.png",
+        "Rank": "243"
+    },
+    {
+        "ID": "8770",
+        "CardName": "Wishcoin Crab",
+        "ELO": "1219",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8771",
+        "ImageURL": "2018\/09\/en_8ZLV1WUBsp.png",
+        "Rank": "244"
+    },
+    {
+        "ID": "9138",
+        "CardName": "Boros Guildgate (a)",
+        "ELO": "1218",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9139",
+        "ImageURL": "2018\/09\/en_wzP42bP6WZ.png",
+        "Rank": "245"
+    },
+    {
+        "ID": "8656",
+        "CardName": "Candlelight Vigil",
+        "ELO": "1213",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "white",
+        "Image": "8657",
+        "ImageURL": "2018\/09\/en_pKFbeQiQh8.png",
+        "Rank": "246"
+    },
+    {
+        "ID": "8766",
+        "CardName": "Wall of Mist",
+        "ELO": "1208",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "blue",
+        "Image": "8767",
+        "ImageURL": "2018\/09\/en_7jhvKePRGH.png",
+        "Rank": "247"
+    },
+    {
+        "ID": "9146",
+        "CardName": "Gateway Plaza",
+        "ELO": "1206",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9147",
+        "ImageURL": "2018\/09\/en_CO6nR7JRVt.png",
+        "Rank": "248"
+    },
+    {
+        "ID": "8858",
+        "CardName": "Goblin Locksmith",
+        "ELO": "1203",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "red",
+        "Image": "8859",
+        "ImageURL": "2018\/09\/en_X2SuGiMaLs.png",
+        "Rank": "249"
+    },
+    {
+        "ID": "9126",
+        "CardName": "Golgari Locket",
+        "ELO": "1186",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9127",
+        "ImageURL": "2018\/09\/en_txfTx6Q9DK.png",
+        "Rank": "250"
+    },
+    {
+        "ID": "9144",
+        "CardName": "Dimir Guildgate (b)",
+        "ELO": "1184",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9145",
+        "ImageURL": "2018\/09\/en_pBElsKYy7F.png",
+        "Rank": "251"
+    },
+    {
+        "ID": "8828",
+        "CardName": "Vicious Rumors",
+        "ELO": "1175",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8829",
+        "ImageURL": "2018\/09\/en_H9H6Fv7ykr.png",
+        "Rank": "252"
+    },
+    {
+        "ID": "9162",
+        "CardName": "Selesnya Guildgate (a)",
+        "ELO": "1174",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9163",
+        "ImageURL": "2018\/09\/en_wbx89RoQfv.png",
+        "Rank": "253"
+    },
+    {
+        "ID": "9132",
+        "CardName": "Selesnya Locket",
+        "ELO": "1172",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9133",
+        "ImageURL": "2018\/09\/en_zKyR8MrvZI.png",
+        "Rank": "254"
+    },
+    {
+        "ID": "9120",
+        "CardName": "Dimir Locket",
+        "ELO": "1168",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9121",
+        "ImageURL": "2018\/09\/en_EvmsTIntuF.png",
+        "Rank": "255"
+    },
+    {
+        "ID": "8810",
+        "CardName": "Never Happened",
+        "ELO": "1166",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "black",
+        "Image": "8811",
+        "ImageURL": "2018\/09\/en_Q8M81TWi6r.png",
+        "Rank": "256"
+    },
+    {
+        "ID": "8930",
+        "CardName": "Pause for Reflection",
+        "ELO": "1140",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "green",
+        "Image": "8931",
+        "ImageURL": "2018\/09\/en_VhnzGi4pg1.png",
+        "Rank": "257"
+    },
+    {
+        "ID": "9114",
+        "CardName": "Boros Locket",
+        "ELO": "1122",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9115",
+        "ImageURL": "2018\/09\/en_VRyfAWdBit.png",
+        "Rank": "258"
+    },
+    {
+        "ID": "9136",
+        "CardName": "Wand of Vertebrae",
+        "ELO": "986",
+        "SetName": "Guilds of Ravnica",
+        "Colour": "colourless",
+        "Image": "9137",
+        "ImageURL": "2018\/09\/en_GbxvzmcqLF.png",
+        "Rank": "259"
+    }
+]
