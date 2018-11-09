@@ -1,4 +1,4 @@
-import { CardDetail } from "./CardDetail";
+import { CardDetail } from './CardDetail';
 
 export class Pack {
     public cards: CardDetail[];

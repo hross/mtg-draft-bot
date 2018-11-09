@@ -7732,7 +7732,7 @@
       "multiverseid": 455605,
       "name": "Ral, Caller of Storms",
       "number": "265",
-      "rarity": "Mythic Rare",
+      "rarity": "Exclusive",
       "subtypes": [
         "Ral"
       ],
@@ -7761,7 +7761,7 @@
       "multiverseid": 455606,
       "name": "Ral's Dispersal",
       "number": "266",
-      "rarity": "Rare",
+      "rarity": "Exclusive",
       "text": "Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it.",
       "type": "Instant",
       "types": [
@@ -7843,7 +7843,7 @@
       "multiverseid": 455609,
       "name": "Vraska, Regal Gorgon",
       "number": "269",
-      "rarity": "Mythic Rare",
+      "rarity": "Exclusive",
       "subtypes": [
         "Vraska"
       ],
@@ -7874,7 +7874,7 @@
       "name": "Kraul Raider",
       "number": "270",
       "power": "2",
-      "rarity": "Common",
+      "rarity": "Exclusive",
       "subtypes": [
         "Insect",
         "Warrior"
@@ -7906,7 +7906,7 @@
       "name": "Attendant of Vraska",
       "number": "271",
       "power": "3",
-      "rarity": "Uncommon",
+      "rarity": "Exclusive",
       "subtypes": [
         "Zombie",
         "Soldier"
@@ -7937,7 +7937,7 @@
       "multiverseid": 455612,
       "name": "Vraska's Stoneglare",
       "number": "272",
-      "rarity": "Rare",
+      "rarity": "Exclusive",
       "text": "Destroy target creature. You gain life equal to its toughness. You may search your library and/or graveyard for a card named Vraska, Regal Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it.",
       "type": "Sorcery",
       "types": [
@@ -7963,7 +7963,7 @@
       "name": "Impervious Greatwurm",
       "number": "273",
       "power": "16",
-      "rarity": "Mythic Rare",
+      "rarity": "Exclusive",
       "subtypes": [
         "Wurm"
       ],

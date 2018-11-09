@@ -24,8 +24,19 @@ export class SetDetail {
         }
 
         this.ranks = [];
+        let maxRank: number = 0;
         for (const item of rankBlob) {
             this.ranks.push(new CardRank(item));
+
+            if (this.ranks[this.ranks.length - 1].rank > maxRank) {
+                maxRank = this.ranks[this.ranks.length - 1].rank;
+            }
+        }
+
+        // normalize ranks
+        for (const cr of this.ranks) {
+            cr.rank = cr.rank / maxRank;
+            cr.rank = Math.round(cr.rank * 10000) / 10000;
         }
 
         this.cachedRanks = {};

@@ -1,4 +1,5 @@
 import { Pack } from './Pack';
+import { SetDetail } from './SetDetail';
 
 export class DraftState {
     public packNumber: number;
@@ -6,17 +7,23 @@ export class DraftState {
     public cardsInPack: number;
 
     public numPlayers: number;
+    public packsPerPlayer: number;
 
     public packs: Pack[];
 
     // start with number of players and all packs for the given draft
-    constructor(numPlayers: number, packs: Pack[]) {
-        this.packs = packs;
+    constructor(numPlayers: number, packsPerPlayer: number, setDetail: SetDetail) {
+        this.packs = [];
         this.numPlayers = numPlayers;
-        this.cardsInPack = packs[0].cards.length;
 
         this.pickNumber = 0;
         this.packNumber = 0;
+
+        // create the right number of booster packs
+        for (let i: number = 0; i < numPlayers * packsPerPlayer; i++) {
+            this.packs.push(setDetail.createPack());
+            this.cardsInPack = this.packs[0].cards.length;
+        }
     }
 
     // which pack should I pick from, given a player index?

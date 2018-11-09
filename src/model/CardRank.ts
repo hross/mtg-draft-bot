@@ -3,7 +3,7 @@ export class CardRank {
     public name: string;
 
     constructor(rankBlob: any) {
-        this.rank = rankBlob.ELO;
+        this.rank = parseInt(rankBlob.ELO, 10);
         this.name = rankBlob.CardName;
     }
 }

@@ -18,7 +18,7 @@ export class CardFrame extends React.Component<ICardProps> {
             <div className='card'>
                 <img src={card.imageUrl} width={250} />
                 <br />
-                {card.name} - {card.rarity}
+                {card.name} - {card.rarity} - {card.rank}
             </div>
         );
     }
