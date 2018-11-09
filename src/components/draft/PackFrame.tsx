@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import {CardDetail } from '../../model/CardDetail';
+import { CardDetail } from '../../model/CardDetail';
 import { Pack } from '../../model/Pack';
 import { CardList } from '../cards/CardList';
 
@@ -15,10 +15,9 @@ export class PackFrame extends React.Component<IPackFrameProps> {
     }
 
     public render() {
-        const { index, pack } = this.props;
+        const { pack } = this.props;
         return (
             <div>
-                <h4 className='pack'>Pack {index}</h4>
                 <CardList cards={pack.cards} onPick={this.onPick} />
             </div>
         );

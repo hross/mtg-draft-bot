@@ -1,8 +1,8 @@
-import { DraftState } from "./DraftState";
-import { Pack } from "./Pack";
-import { Player } from "./Player";
-import { SetDetail } from "./SetDetail";
-import { SetRank } from "./SetRank";
+import { DraftState } from './DraftState';
+import { Pack } from './Pack';
+import { Player } from './Player';
+import { SetDetail } from './SetDetail';
+import { SetRank } from './SetRank';
 
 export class Draft {
     private static NumPlayers: number = 8;
@@ -12,11 +12,11 @@ export class Draft {
     public setDetail: SetDetail;
     public players: Player[];
 
-    constructor (setDetail: SetDetail, setRank: SetRank) {
+    constructor(setDetail: SetDetail, setRank: SetRank) {
         // create some bots
         this.players = [];
-        for(let i: number = 0; i < Draft.NumPlayers; i++) {
-            this.players.push(new Player(i, "Player " + i.toString(), setRank));
+        for (let i: number = 0; i < Draft.NumPlayers; i++) {
+            this.players.push(new Player(i, 'Player ' + i.toString(), setRank));
         }
 
         // establish the set we are drafting from

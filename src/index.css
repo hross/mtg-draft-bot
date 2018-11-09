@@ -12,6 +12,10 @@ pre {
   white-space: pre-wrap;
 }
 
-div.snackAlert {
-  background-color: red;
+.cards { 
+  display: flex; 
+  flex-wrap: wrap;
+}
+.card {
+  margin: 5px;
 }

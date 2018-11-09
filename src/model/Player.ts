@@ -1,5 +1,5 @@
-import { CardDetail } from "./CardDetail";
-import { SetRank } from "./SetRank";
+import { CardDetail } from './CardDetail';
+import { SetRank } from './SetRank';
 
 export class Player {
     public id: number;
@@ -28,7 +28,7 @@ export class Player {
 
         // TODO: implement some kind of logic for on/off color picks
         // right now we will just be random :)
-        const pickIndex = 0; // Math.floor(Math.random() * (pack.length - 1));
+        const pickIndex = 0; // generate(0, pack.lenght-1);
 
         this.deck.push(pack[pickIndex]);
         pack.splice(pickIndex, 1);

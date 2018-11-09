@@ -15,7 +15,11 @@ export class CardFrame extends React.Component<ICardProps> {
     public render() {
         const { card } = this.props;
         return (
-            <div className='card'>{card.name} - {card.rarity}</div>
+            <div className='card'>
+                <img src={card.imageUrl} width={250} />
+                <br />
+                {card.name} - {card.rarity}
+            </div>
         );
     }
 }

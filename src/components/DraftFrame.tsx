@@ -1,22 +1,25 @@
 import * as React from 'react';
 
-import Button from '@material-ui/core/Button';
+import { Button, Paper } from '@material-ui/core';
 
 import { Draft } from '../model/Draft';
-import { CardDataSource } from '../sources/CardSource';
-
-import { PlayerFrame } from '../components/players/PlayerFrame';
 import { SetDetail } from '../model/SetDetail';
 import { SetRank } from '../model/SetRank';
+import { CardDataSource } from '../sources/CardSource';
+
+import { CardSelector } from './cards/CardSelector';
+import { DraftDisplay } from './DraftDisplay';
 
 interface IDraftProps {
     code: string;
+    display: DraftDisplay;
 }
 
 interface IDraftState {
     draft: Draft | null;
     isLoading: boolean;
     isComplete: boolean;
+    menuOpen: boolean;
 }
 
 export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
@@ -30,7 +33,8 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
         this.state = {
             draft: null,
             isLoading: true,
-            isComplete: false
+            isComplete: false,
+            menuOpen: false
         };
     }
 
@@ -42,24 +46,51 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
     }
 
     public render() {
-        const { draft, isLoading } = this.state;
+        const { display } = this.props;
+        const { isLoading } = this.state;
 
         if (isLoading) {
             return (<div>Wait...</div>);
         }
 
-        const playerFrames = draft!.players.map((player, idx) => {
-            return <PlayerFrame key={idx} player={player} />;
-        });
+        let canvas = null;
+
+        switch (display) {
+            case DraftDisplay.Packs:
+                canvas = (
+                    <div className='draftCanvas'>
+                        <h3>Packs</h3>
+                        <CardSelector
+                            onPick={this.onPick}
+                            cardSets={this.state.draft!.draftState.packs.map((p) => p.cards)}
+                            getTextForOption={this.getTextForPack}
+                        />
+                    </div>
+                );
+                break;
+            default:
+                canvas = (
+                    <div className='draftCanvas'>
+                        <h3>Results</h3>
+                        <CardSelector
+                            onPick={this.onPick}
+                            cardSets={this.state.draft!.players.map((p) => p.deck)}
+                            getTextForOption={this.getTextForPlayer}
+                        />
+                    </div>
+                );
+                break;
+        }
 
         return (
             <div>
-                <Button variant='outlined' onClick={this.doDraft}>
-                    Start
-                </Button>
+                <Paper>
+                    <Button variant='outlined' onClick={this.doDraft}>
+                        Start
+                    </Button>
 
-                <h3>Results</h3>
-                {playerFrames}
+                    {canvas}
+                </Paper>
             </div>);
     }
 
@@ -79,10 +110,22 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
             });
     }
 
-    private doDraft = () => {
+    private doDraft = (): void => {
         this.state.draft!.go();
         this.setState({
             isComplete: true
         });
+    }
+
+    private getTextForPack = (index: number): string => {
+        return 'Pack #' + (index + 1);
+    }
+
+    private getTextForPlayer = (index: number): string => {
+        return 'Player #' + (index + 1);
+    }
+
+    private onPick = (): void => {
+        // do nothing
     }
 }
