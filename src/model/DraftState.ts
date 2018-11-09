@@ -24,7 +24,7 @@ export class DraftState {
         const packOffset = this.numPlayers * this.packNumber;
         const packIndex = (playerIndex + this.pickNumber) % this.numPlayers;
 
-        if ( packIndex + packOffset >= this.packs.length) {
+        if (packIndex + packOffset >= this.packs.length) {
             return new Pack([]); // nothing to pick
         }
 
