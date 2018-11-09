@@ -4,7 +4,6 @@ import { Button, Paper } from '@material-ui/core';
 
 import { Draft } from '../model/Draft';
 import { SetDetail } from '../model/SetDetail';
-import { SetRank } from '../model/SetRank';
 import { CardDataSource } from '../sources/CardSource';
 
 import { CardSelector } from './cards/CardSelector';
@@ -95,16 +94,17 @@ export class DraftFrame extends React.Component<IDraftProps, IDraftState> {
     }
 
     private findSetData = () => {
-        const promises: [Promise<SetDetail>, Promise<SetRank>] = [
+        const promises: [Promise<any>, Promise<any>] = [
             this.source.fetchSetDetail(this.props.code),
             this.source.fetchSetRankings(this.props.code)
         ];
 
         Promise.all(promises)
             .then((results) => {
+                const setDetail = new SetDetail(this.props.code, results[0], results[1]);
                 // set up a new draft with this set info
                 this.setState({
-                    draft: new Draft(results[0], results[1]),
+                    draft: new Draft(setDetail),
                     isLoading: false
                 });
             });

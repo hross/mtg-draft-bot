@@ -1,5 +1,4 @@
 import { CardDetail } from './CardDetail';
-import { SetRank } from './SetRank';
 
 export class Player {
     public id: number;
@@ -7,15 +6,11 @@ export class Player {
     public isHuman: boolean;
     public deck: CardDetail[];
 
-    private setRank: SetRank;
-
-    constructor(id: number, name: string, setRank: SetRank) {
+    constructor(id: number, name: string) {
         this.isHuman = false;
         this.deck = [];
         this.id = id;
         this.name = name;
-
-        this.setRank = setRank;
     }
 
     // pick a card from the pack and return the rest
@@ -24,7 +19,7 @@ export class Player {
             return pack;
         }
 
-        pack.sort((c1, c2) => this.setRank.rankOf(c2.name) - this.setRank.rankOf(c1.name));
+        pack.sort((c1, c2) => c2.rank - c1.rank);
 
         // TODO: implement some kind of logic for on/off color picks
         // right now we will just be random :)

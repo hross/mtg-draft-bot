@@ -7785,7 +7785,7 @@
       "multiverseid": 455607,
       "name": "Precision Bolt",
       "number": "267",
-      "rarity": "Common",
+      "rarity": "Exclusive",
       "text": "Precision Bolt deals 3 damage to any target.",
       "type": "Sorcery",
       "types": [
@@ -7811,7 +7811,7 @@
       "name": "Ral's Staticaster",
       "number": "268",
       "power": "3",
-      "rarity": "Uncommon",
+      "rarity": "Exclusive",
       "subtypes": [
         "Viashino",
         "Wizard"

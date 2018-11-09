@@ -8,8 +8,9 @@ export class CardDetail {
     public colorIdentity: string[];
     public imageUrl: string;
     public setCode: string;
+    public rank: number;
 
-    constructor(cardBlob: any, setCode: string) {
+    constructor(cardBlob: any, setCode: string, rankOf: (name: string) => number) {
         this.setCode = setCode;
         this.name = cardBlob.name;
         this.id = cardBlob.number;
@@ -18,6 +19,7 @@ export class CardDetail {
         this.subTypes = cardBlob.subtypes;
         this.rarity = cardBlob.rarity;
         this.colorIdentity = cardBlob.colorIdentity;
+        this.rank = rankOf(this.name);
 
         const imageNumber = cardBlob.number.endsWith('a') || cardBlob.number.endsWith('b') ? cardBlob.number.substring(0, cardBlob.number.length - 2) : cardBlob.number;
 

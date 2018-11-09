@@ -1,6 +1,7 @@
 import { generate } from './Random';
 
 import { CardDetail } from './CardDetail';
+import { CardRank } from './CardRank';
 import { Pack } from './Pack';
 
 export class SetDetail {
@@ -8,16 +9,26 @@ export class SetDetail {
     public packContents: string | string[][];
     public cards: CardDetail[];
 
+    public ranks: CardRank[];
+    private cachedRanks: { [category: string]: number; };
+
     // mapping of cards by category
     private idByCategory: { [category: string]: number[]; } = { };
 
-    constructor(code: string, setBlob: any) {
+    constructor(code: string, setBlob: any, rankBlob: any) {
         this.code = code;
 
         this.packContents = [];
         for (const item of setBlob.booster) {
             this.packContents.push(item);
         }
+
+        this.ranks = [];
+        for (const item of rankBlob) {
+            this.ranks.push(new CardRank(item));
+        }
+
+        this.cachedRanks = {};
 
         // init
         this.cards = [];
@@ -26,7 +37,7 @@ export class SetDetail {
 
         for (let i = 0; i < setBlob.cards.length; i++) {
             // create the card
-            const cardDetail = new CardDetail(setBlob.cards[i], code);
+            const cardDetail = new CardDetail(setBlob.cards[i], code, (name: string) => this.rankOf(name));
             this.cards.push(cardDetail);
 
             // special case, this card is a land
@@ -55,6 +66,23 @@ export class SetDetail {
         return new Pack(cards);
     }
 
+    public rankOf(cardName: string) {
+        if (this.cachedRanks[cardName]) {
+            return this.cachedRanks[cardName];
+        }
+
+        const rank = this.ranks.find((c) => c.name.toLowerCase() === cardName.toLowerCase());
+
+        if (rank) {
+            this.cachedRanks[cardName] = rank.rank;
+            return rank.rank;
+        }
+
+        // no rank found
+        console.error('No rank found for: ' + cardName);
+        return 0;
+    }
+
     private pickACard(code: string, cardType: string | string[]): CardDetail | null {
         if (cardType === 'marketing') {
             // no op on marketing cards for draft
@@ -70,7 +98,7 @@ export class SetDetail {
             // make sure GRN land is a gate
             if (cardType.toLowerCase() === 'land' && code.toUpperCase() === 'GRN') {
                 let gateCard: CardDetail | null = null;
-                while (!gateCard || gateCard.subTypes.indexOf('Gate') === -1) {
+                while (!gateCard || !gateCard.subTypes || gateCard.subTypes.indexOf('Gate') === -1) {
                     const gateIdx = generate(0, this.idByCategory[cardType].length - 1);
                     gateCard = this.cards[this.idByCategory[cardType][gateIdx]];
                 }
